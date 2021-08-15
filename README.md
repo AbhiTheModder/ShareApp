@@ -21,7 +21,7 @@
 </shape>
 
 
-## In xml file add these lines but firstly add your desired share image in drawable file  
+## In activity_main.xml file add these lines but firstly add your desired share image in drawable file  
 
      <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
