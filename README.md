@@ -86,7 +86,7 @@
         startActivity(intent);
     }
 
-}
+    }
 
 <p align="center">
 <a href="https://t.me/joinchat/xP-wW-A5mIBmMjY1"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
