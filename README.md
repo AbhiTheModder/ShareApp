@@ -13,12 +13,12 @@
         <shape
 
     xmlns:android="http://schemas.android.com/apk/res/android">
-<stroke android:color="@color/black"
+    <stroke android:color="@color/black"
     android:width="2dp"/>
     <solid
         android:color="#00FFFFFF"/>
 
-</shape>
+     </shape>
 
 
 ## In activity_main.xml file add these lines but firstly add your desired share image in drawable file  
