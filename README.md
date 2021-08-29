@@ -53,7 +53,7 @@
         android:src="@drawable/fb" />
 
 
-</RelativeLayout>
+     </RelativeLayout>
 
 ## Now add these in MainActivity.java
 
