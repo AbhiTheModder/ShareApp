@@ -91,7 +91,7 @@
 ## Vist links below 
 <p align="center">
 <a href="https://t.me/joinchat/xP-wW-A5mIBmMjY1"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/Mods_byAbhi_demandbot"><img title="Telegram Bot" src="https://img.shields.io/badge/Telegram-bot-black?style=for-the-badge&logo=Telegram_bot"></a>
+<a href="https://t.me/QbtaumaiBot"><img title="Telegram Bot" src="https://img.shields.io/badge/Telegram-bot-black?style=for-the-badge&logo=Telegram_bot"></a>
 
-<a href="https://github.com/AbhiTheModder/"><img title="Nothing" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiTheModder&repo=Abhi-The-Modder&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AbhiTheModder/"><img title="Nothing" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiTheModder&repo=AbhiTheModder&theme=vision-friendly-dark"></a>
 
